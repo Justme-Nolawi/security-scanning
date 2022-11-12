@@ -1,5 +1,4 @@
-#
-security-scanning
+#security-scanning
 
 This is being created to maintain all code files that are created in the process of getting cyber security clearance.
 
